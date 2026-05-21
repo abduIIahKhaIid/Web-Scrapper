@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/*.csv
+data/raw/*.json
+data/processed/*.csv
+data/processed/*.json
+
+screenshots/*.png
+logs/*.log
+
+.env
